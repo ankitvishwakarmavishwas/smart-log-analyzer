@@ -92,13 +92,12 @@ pip install -r requirements.txt
 
 python analyzer.py
 
+```
 
-📊 Output
 
-
+## 📊 Output
 
 Analysis Complete. Check report.txt
-
 
 
 ⚠️ Brute Force Detected from IP: 192.168.1.10
@@ -107,7 +106,7 @@ Analysis Complete. Check report.txt
 
 
 
-🌍 Real-World Use Case
+## 🌍 Real-World Use Case
 
 
 
@@ -115,7 +114,7 @@ Simulates SOC (Security Operations Center) log monitoring to detect brute force 
 
 
 
-📌 Author
+## 📌 Author
 
 
 
