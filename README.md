@@ -8,8 +8,6 @@
 
 ![Status](https://img.shields.io/badge/Project-Active-brightgreen)
 
-![Output](./screenshots/output.png)
-
 
 
 \---
