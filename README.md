@@ -2,11 +2,13 @@
 
 
 
-!\[Python](https://img.shields.io/badge/Python-3.x-blue)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
 
-!\[Cybersecurity](https://img.shields.io/badge/Domain-Cybersecurity-red)
+![Cybersecurity](https://img.shields.io/badge/Domain-Cybersecurity-red)
 
-!\[Status](https://img.shields.io/badge/Project-Active-brightgreen)
+![Status](https://img.shields.io/badge/Project-Active-brightgreen)
+
+![Output](./screenshots/output.png)
 
 
 
