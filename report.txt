@@ -1,2 +1,0 @@
-🚫 Blacklisted IP Access: 10.0.0.5
-⚠️ Brute Force Detected from IP: 192.168.1.10
