@@ -93,10 +93,7 @@ pip install -r requirements.txt
 python analyzer.py
 
 
-
----
-
-📊 Output
+## 📊 Output
 
 
 
