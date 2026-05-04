@@ -59,25 +59,23 @@ A Python-based cybersecurity tool that analyzes system logs to detect suspicious
 
 ## 📂 Project Structure
 
-
-
+```
 smart-log-analyzer/
+│── analyzer.py              # Main script for log analysis and threat detection
+│── logs.txt                 # Sample log file for testing
+│── blacklist.txt            # List of malicious/blocked IPs
+│── README.md                # Project documentation
+│── requirements.txt         # Project dependencies
+│── .gitignore               # Files to ignore in version control
+│
+├── output/
+│   └── report.txt           # Generated alert report
+│
+├── screenshots/
+│   ├── terminal-output.png  # Execution output screenshot
+│   └── detected-threats.png # Threat detection report screenshot
 
-│── analyzer.py
-
-│── logs.txt
-
-│── blacklist.txt
-
-│── report.txt
-
-│── screenshots/
-
-│── README.md
-
-│── requirements.txt
-
-
+```
 
 
 
