@@ -1,4 +1,4 @@
-\# 🔐 Smart Log Analyzer \& Threat Detection System
+# 🔐 Smart Log Analyzer \& Threat Detection System
 
 
 
@@ -10,49 +10,49 @@
 
 
 
-\---
+---
 
 
 
-\## 📌 Overview
+## 📌 Overview
 
 A Python-based cybersecurity tool that analyzes system logs to detect suspicious activities such as brute force attacks and blacklisted IP access.
 
 
 
-\---
+---
 
 
 
-\## 🚀 Features
+## 🚀 Features
 
-\- Detects brute force login attempts  
+- Detects brute force login attempts  
 
-\- Identifies blacklisted IP addresses  
+- Identifies blacklisted IP addresses  
 
-\- Generates automated security reports  
-
-
-
-\---
+- Generates automated security reports  
 
 
 
-\## 🛠️ Tech Stack
-
-\- Python  
-
-\- Regex  
-
-\- File Handling  
+---
 
 
 
-\---
+## 🛠️ Tech Stack
+
+- Python  
+
+- Regex  
+
+- File Handling  
 
 
 
-\## 📂 Project Structure
+---
+
+
+
+## 📂 Project Structure
 
 
 
@@ -76,11 +76,11 @@ smart-log-analyzer/
 
 
 
-\---
+---
 
 
 
-\## ▶️ How to Run
+## ▶️ How to Run
 
 ```bash
 
@@ -93,6 +93,8 @@ pip install -r requirements.txt
 python analyzer.py
 
 
+
+---
 
 📊 Output
 
