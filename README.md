@@ -14,6 +14,13 @@
 
 
 
+**Keywords:** Cybersecurity, SOC, Log Analysis, Threat Detection, Python, SIEM Basics
+
+
+
+---
+
+
 ## 📌 Overview
 
 A Python-based cybersecurity tool that analyzes system logs to detect suspicious activities such as brute force attacks and blacklisted IP access.
@@ -160,6 +167,17 @@ The system follows a simple detection pipeline:
 
 Simulates SOC (Security Operations Center) log monitoring to detect brute force attacks and suspicious IP behavior.
 
+
+
+---
+
+
+## 🔮 Future Enhancements
+
+- Real-time log monitoring using file watchers  
+- Integration with SIEM tools (Splunk)  
+- GeoIP tracking of malicious IPs  
+- Web dashboard using Streamlit  
 
 
 ---
