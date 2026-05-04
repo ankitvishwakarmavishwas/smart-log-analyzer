@@ -184,6 +184,14 @@ Simulates SOC (Security Operations Center) log monitoring to detect brute force 
 
 
 
+## 📦 Version
+Current Release: v1.0
+
+
+---
+
+
+
 ## 📌 Author
 
 
