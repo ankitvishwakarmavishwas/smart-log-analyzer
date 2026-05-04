@@ -95,14 +95,15 @@ python analyzer.py
 ```
 
 
-## 📊 Output
-
-Analysis Complete. Check report.txt
+---
 
 
-⚠️ Brute Force Detected from IP: 192.168.1.10
 
-🚫 Blacklisted IP Access: 10.0.0.5
+### 🔹 Threat Detection Output
+
+![Terminal Output](screenshots/terminal-analysis.png)
+
+![Threat Detection](screenshots/detected-threats.png)
 
 
 ---
