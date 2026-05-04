@@ -26,7 +26,7 @@ for log in logs:
         if ip in blacklist:
             alerts.append(f"🚫 Blacklisted IP Access: {ip}")
 
-with open("report.txt", "w", encoding="utf-8") as f:
+with open("output/report.txt", "w", encoding="utf-8") as f:
     for alert in set(alerts):
         f.write(alert + "\n")
 
